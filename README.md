@@ -1,1 +1,2 @@
-# piqxhure.github.io
+# piqxhure
+A photo sharing application
